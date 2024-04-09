@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Claudiu\OneDrive\Desktop\oop\laboratory1\Laboratory1P1\Laboratory1P4\Main.cpp(39,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Claudiu\OneDrive\Desktop\oop\laboratory1\Laboratory1P1\Laboratory1P4\Main.cpp(39,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Claudiu\OneDrive\Desktop\oop\laboratory1\Laboratory1P1\Laboratory1P4\Main.cpp(39,13): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Claudiu\OneDrive\Desktop\oop\laboratory1\Laboratory1P1\Laboratory1P4\Main.cpp(39,13): message : this argument is used as a buffer size
+  Laboratory1P4.vcxproj -> C:\Users\Claudiu\OneDrive\Desktop\oop\laboratory1\Laboratory1P1\x64\Debug\Laboratory1P4.exe
